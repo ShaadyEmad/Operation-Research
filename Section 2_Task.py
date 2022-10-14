@@ -1,3 +1,16 @@
+"""
+***input***
+5
+7
+compass 0.5 6
+hatchet 1.5 5
+matches 0.4 4
+tarpaulin 1 4
+telescope 1.1 3
+cylinder 1.6 4
+Rilakkuma 0.8 1
+"""
+
 limit = int(input("Write the limit: "))
 t = int(input("Enter Number of Items: "))
 print("Write item name - item weight - item value")
